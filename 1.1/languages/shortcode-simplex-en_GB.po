@@ -1,0 +1,129 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Shortcode Simplex\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-16 18:31+0000\n"
+"PO-Revision-Date: 2017-04-16 18:51+0000\n"
+"Last-Translator: jrmarco <wpdev@bigm.it>\n"
+"Language-Team: English (UK)\n"
+"Language: en-GB\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0\n"
+
+#: shortcode_simplex_utility.php:60
+#, php-format
+msgid "Would you like to permanently delete shortcode #%1$s - namely %2$s ?"
+msgstr "Would you like to permanently delete shortcode #%1$s - namely %2$s ?"
+
+#: shortcode_simplex_utility.php:61
+msgid "Would you like to permanently delete ALL the shortcodes?"
+msgstr "Would you like to permanently delete ALL the shortcodes?"
+
+#: shortcode_simplex_utility.php:62
+msgid "Abort"
+msgstr "Abort"
+
+#: shortcode_simplex_utility.php:63
+msgid "Delete permanently"
+msgstr "Delete permanently"
+
+#: shortcode_simplex_utility.php:64
+msgid "Shortcode not found! Sorry"
+msgstr "Shortcode not found! Sorry"
+
+#: shortcode_simplex_utility.php:100
+msgid "Notes"
+msgstr "Notes"
+
+#: shortcode_simplex_utility.php:101
+msgid "Delete ALL"
+msgstr "Delete ALL"
+
+#: shortcode_simplex_utility.php:102
+msgid "Edit"
+msgstr "Edit"
+
+#: shortcode_simplex_utility.php:103
+msgid "Delete"
+msgstr "Delete"
+
+#: shortcode_simplex_utility.php:130 shortcode_simplex_utility.php:132
+msgid "Page"
+msgstr "Page"
+
+#: shortcode_simplex_utility.php:133
+msgid "Previous"
+msgstr "Previous"
+
+#: shortcode_simplex_utility.php:134
+msgid "Next"
+msgstr "Next"
+
+#: shortcode_simplex_main.php:58
+msgid "Manage shortcode"
+msgstr "Manage shortcode"
+
+#: shortcode_simplex_main.php:78
+msgid "Shortcode TAG name - accept only alphanumeric"
+msgstr "Shortcode TAG name - accept only alphanumeric"
+
+#: shortcode_simplex_main.php:78 shortcode_simplex_main.php:82
+msgid "required"
+msgstr "required"
+
+#: shortcode_simplex_main.php:78
+msgid "max 50 characters"
+msgstr "max 50 characters"
+
+#: shortcode_simplex_main.php:80
+msgid "Shortcode description"
+msgstr "Shortcode description"
+
+#: shortcode_simplex_main.php:82
+msgid "Code"
+msgstr "Code"
+
+#: shortcode_simplex_main.php:84
+msgid "Save shortcode"
+msgstr "Save shortcode"
+
+#: shortcode_simplex_main.php:90
+msgid "Check out the Sample page"
+msgstr "Check out the Sample page"
+
+#: shortcode_simplex_main.php:90
+msgid "View sample"
+msgstr "View sample"
+
+#: shortcode_simplex_main.php:91
+msgid "Active shortcode"
+msgstr "Active shortcode"
+
+#: shortcode_simplex_main.php:91
+msgid "Create new"
+msgstr "Create new"
+
+#: shortcode_simplex_main.php:101
+msgid "license_footer"
+msgstr "license_footer"
+
+#. Name of the plugin
+msgid "Shortcode Simplex"
+msgstr "Shortcode Simplex"
+
+#. Description of the plugin
+msgid ""
+"This lightweight plugin let you create and manage Shortcode inside any post. "
+"It's really simple and fast with its minimal graphics. If you like my work "
+"<a href=\"https://dev.bigm.it\" >buy me a coffee</a>"
+msgstr ""
+"This lightweight plugin let you create and manage Shortcode inside any post. "
+"It's really simple and fast with its minimal graphics. If you like my work "
+"<a href=\"https://dev.bigm.it\" >buy me a coffee</a>"
+
+#. Author of the plugin
+msgid "Marco Grossi"
+msgstr "Marco Grossi"
